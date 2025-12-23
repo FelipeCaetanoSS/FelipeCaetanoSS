@@ -22,19 +22,15 @@ Estudante de Engenharia de Software com foco em desenvolvimento de sistemas web.
 
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/FelipeCaetanoSS">
-    <img height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCaetanoSS&layout=compact&theme=dark&hide_border=true"/>
-  </a>
-</div>
 
 <hr/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/felipecaetanoss/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-610505?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+      <img src="https://img.shields.io/badge/LinkedIn-610505?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+  </a>
+    
+  <a href="mailto:felipecaetano1177@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-610505?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
